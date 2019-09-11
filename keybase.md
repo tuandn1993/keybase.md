@@ -3,7 +3,7 @@
 I hereby claim:
 
 * I am tuandn1993 on github.
-* I am babydragon (https://keybase.io/babydragon) on keybase.
+* I am babydragon (https: //keybase.io/babydragon) on keybase.
 * I have a public key ASDYgQeLdaVVBvKeetvyI0I2i8A64bSk7YJJMWM2ekB4vgo
 
 To claim this, I am signing this object:
@@ -44,7 +44,8 @@ To claim this, I am signing this object:
 }
 ```
 
-with the key [ASDYgQeLdaVVBvKeetvyI0I2i8A64bSk7YJJMWM2ekB4vgo](https://keybase.io/babydragon), yielding the signature:
+with the key [ASDYgQeLdaVVBvKeetvyI0I2i8A64bSk7YJJMWM2ekB4vgo
+](https: //keybase.io/babydragon), yielding the signature:
 
 ```
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2IEHi3WlVQbynnrb8iNCNovAOuG0pO2CSTFjNnpAeL4Kp3BheWxvYWTESpcCB8QgQeWn4f4r7PrIGn8K3ztUM1GBitbk+pB+DQI6+uSRG5HEICndW1/h9G521jyHwW5GbYllOCFLrrfNg1ME8qvF+5zXAgHCo3NpZ8RAEaTQR79doGWBp1OQhaTSdzgsV5f4movuigIMVXcY1SbAhaP2wPguhxqk++H6Wyke70P60ZbCT1uPBM5ea2odBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDgehW8rYI5sMIga/q7LudvqKVvURdOBl3i6V6MnEWPgo3RhZ80CAqd2ZXJzaW9uAQ==
@@ -55,11 +56,12 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 ### My publicly-auditable identity:
 
-https://keybase.io/babydragon
+https: //keybase.io/babydragon
 
 ### From the command line:
 
-Consider the [keybase command line program](https://keybase.io/download).
+Consider the [keybase command line program
+](https: //keybase.io/download).
 
 ```bash
 # look me up
